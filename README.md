@@ -1,1 +1,2 @@
 # SegundaActividad
+Eric Separovic
